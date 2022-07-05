@@ -36,9 +36,9 @@ npm run dev
 `build`, заменив `имя_пользователя` и `имя_репозитория` на свои.
 
 ```json
-"homepage": "https://naf24.github.io/goitbootcamp16-team2",
+"homepage": "https://uliakhom.github.io/html-css-team-project/",
 "scripts": {
-  "build": "parcel build src/*.html --public-url /goitbootcamp16-team2/"
+  "build": "parcel build src/*.html --public-url /html-css-team-project/"
 },
 ```
 
