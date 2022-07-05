@@ -3,10 +3,10 @@
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://naf24.github.io/goitbootcamp16-team2",
+  "homepage": "https://uliakhom.github.io/html-css-team-project",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goitbootcamp16-team2/"
+    "build": "parcel build src/*.html --public-url /html-css-team-project/"
   },
   "repository": {
     "type": "git",
